@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/intro_all"
+        android:title="分类介绍"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/version"
+
+        android:title="关于中国金鱼"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/declaration"
+
+        android:title="作品声明"
+        app:showAsAction="never"/>
+</menu>

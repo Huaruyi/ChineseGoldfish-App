@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/nav_all"
+            android:icon="@drawable/ic_menu"
+            android:title="全部"
+            android:checkable="true"/>
+        <item
+            android:id="@+id/nav_jjz"
+            android:icon="@drawable/cambridge"
+            android:title="金鲫种"
+            android:checkable="false"/>
+        <item
+            android:id="@+id/nav_wz"
+            android:icon="@drawable/blue"
+            android:title="文种"
+            android:checkable="false"/>
+        <item
+            android:id="@+id/nav_lz"
+            android:icon="@drawable/purple"
+            android:title="龙种"
+            android:checkable="false"/>
+        <item
+            android:id="@+id/nav_dz"
+            android:icon="@drawable/grass"
+            android:title="蛋种"
+            android:checkable="false"/>
+        <item
+            android:id="@+id/nav_lbz"
+            android:icon="@drawable/green"
+            android:title="龙背种"
+            android:checkable="false"/>
+    </group>
+</menu>
